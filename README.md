@@ -1,5 +1,5 @@
 # termux-lain-style
-<img src="./satic/exemple.jpg">
+![exemple](static/exemple.jpg)
 with a single script,you can customize Neovim,your colors scheme,fonts,fastfetch,and more.
 
 ## why 
