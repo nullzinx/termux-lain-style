@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -eu
-
+fastfetch --gen-config
 mkdir -p \
   "$HOME/.config/nvim" \
   "$HOME/.termux" \
